@@ -10,5 +10,5 @@ npm install
 
 # serve with hot reload at localhost:8080
 npm run dev
-
+```
 If you change anything in the VUE file,you will see the error
