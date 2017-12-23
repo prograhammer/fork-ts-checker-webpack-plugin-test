@@ -82,6 +82,6 @@ module.exports = {
     child_process: 'empty'
   },
   plugins: [
-    new ForkTsCheckerWebpackPlugin({ tslint: true, async: false })
+    new ForkTsCheckerWebpackPlugin({ tslint: true, async: false, vue: true })
   ]
 }
